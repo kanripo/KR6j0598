@@ -1,29 +1,28 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:59.917618
+#+DATE: 2015-08-30 20:36:00.565358
 #+TITLE: 佛說大七寶陀羅尼經
 #+PROPERTY: CBETA_ID T21n1368
 #+PROPERTY: ID KR6j0598
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1368
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6j0598_T_000-0885b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0598_T_001-0885b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1368¶
-
- 佛說大七寶陀羅尼經¶
+No. 1368¶
+佛說大七寶陀羅尼經¶
 ¶
-失譯人名今附梁錄¶
+失譯¶
 
 如是我聞。一時佛在祇樹給孤窮精舍。佛告¶
 阿難。汝受持此大七寶陀羅尼呪。爾時世尊¶
 即便說之。¶
 
 寫地也貸曇　坻闍律提　波羅若　波羅¶
-　式叉仇拏　比茶
+　式叉仇拏　比荼
 
 阿難若有受持讀誦修¶
 行此陀羅尼呪。盡其形命一切怨仇能令歡¶
